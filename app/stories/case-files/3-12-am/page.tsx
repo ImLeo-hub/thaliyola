@@ -975,7 +975,13 @@ export default function Case001Page() {
   കുറച്ച് നിമിഷത്തെ നിശബ്ദതയ്ക്ക് ശേഷം
   ആദിത്യൻ ചോദിച്ചു.
   <br /><br />
-
+<div className="my-12">
+  <img
+    src="/images/chapter5-george-warning.png"
+    alt="Adithyan talks with retired CI George Varghese"
+    className="w-full rounded-xl shadow-2xl"
+  />
+</div>
   "സാർ..."
   <br /><br />
 
