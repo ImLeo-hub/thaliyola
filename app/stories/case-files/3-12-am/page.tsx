@@ -1210,7 +1210,19 @@ export default function Case001Page() {
   പക്ഷേ കാലപ്പഴക്കം കാരണം
   അതിലെ എഴുത്തുകൾ വ്യക്തമായി വായിക്കാൻ കഴിഞ്ഞില്ല.
 </p>
+{/* CHAPTER 6 IMAGE */}
 
+<div className="my-12">
+  <img
+    src="/images/chapter6-hidden-map.png"
+    alt="Adithyan discovers hidden location map evidence"
+    className="w-full rounded-xl shadow-2xl"
+  />
+
+  <p className="text-center text-sm text-gray-400 mt-3">
+    A hidden location marked inside the old 2008 case evidence.
+  </p>
+</div>
 
 <p>
   ആദിത്യൻ ആ mark ശ്രദ്ധിച്ചു നോക്കി.
