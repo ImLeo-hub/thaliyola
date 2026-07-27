@@ -24,13 +24,13 @@ export default function TheDollInDarkness() {
 
         {/* Cover Image */}
         <div className="mt-10 flex justify-center">
-          <Image
-            src="/images/the-doll-in-darkness-cover.png"
-            alt="The Doll in Darkness"
-            width={600}
-            height={900}
-            className="rounded-lg shadow-2xl"
-          />
+         <Image
+  src="/images/the-doll-in-darkness-cover.png"
+  alt="The Doll in Darkness"
+  width={600}
+  height={900}
+  loading="eager"
+/>
         </div>
 
 
