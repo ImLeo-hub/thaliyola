@@ -14,7 +14,7 @@ const categories = [
   {
     title: "Horror Stories",
     description: "Dark tales that hide terrifying secrets.",
-    link: "#",
+    link: "/stories/horror",
   },
   {
     title: "Love Stories",
@@ -112,7 +112,7 @@ export default function StoriesPage() {
               </h2>
 
 
-              <p className="text-gray-400">
+              <p className="text-gray-400 leading-6">
                 {category.description}
               </p>
 
